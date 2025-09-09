@@ -4,7 +4,7 @@ This project demonstrates how to **deploy machine learning models** in productio
 
 Developed by **Nowa Analytics**, a consultancy specialized in **Data Science, Machine Learning, and MLOps solutions**.
 
----
+--------
 
 ## 📌 Project Overview
 
