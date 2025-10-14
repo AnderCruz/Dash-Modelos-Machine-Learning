@@ -1,10 +1,10 @@
-# 🚀 MLOps: Model Deployment
+# MLOps: Model Deployment
 
 This project demonstrates how to **deploy machine learning models** in production environments using **Flask, Docker, Google Cloud Platform (GCP), and GitHub Actions**.
 
 Developed by **Nowa Analytics**, a consultancy specialized in **Data Science, Machine Learning, and MLOps solutions**.
 
----
+
 
 ## 📌 Project Overview
 
@@ -17,7 +17,7 @@ The main objective of this project is to learn how to:
 
 By the end of this project, you will have a **production-ready deployment pipeline** for serving ML models.
 
----
+
 
 ## ⚙️ Project Workflow
 
@@ -51,7 +51,7 @@ By the end of this project, you will have a **production-ready deployment pipeli
 * Store secrets in **GitHub Actions**
 * Enable **continuous delivery pipeline** for automatic deployments
 
----
+
 
 ## 📁 Project Structure
 
@@ -70,7 +70,7 @@ By the end of this project, you will have a **production-ready deployment pipeli
 └── cookiecutter.json     # Project template definition
 ```
 
----
+
 
 ## 📊 Technologies & Tools
 
@@ -81,7 +81,7 @@ By the end of this project, you will have a **production-ready deployment pipeli
 * **GitHub Actions** → CI/CD pipeline
 * **Cookiecutter** → Project structuring
 
----
+
 
 ## 🚀 Getting Started
 
@@ -113,7 +113,7 @@ docker run -p 5000:5000 mlops-deploy
 
 5. Deploy to **Google Cloud Run** with GitHub Actions (automatic after push).
 
----
+
 
 ## ✅ Results
 
@@ -122,7 +122,7 @@ docker run -p 5000:5000 mlops-deploy
 * Containerized applications with **Docker**
 * Automated deployments using **GitHub Actions CI/CD pipeline**
 
----
+
 
 ## 🏢 About Nowa Analytics
 
@@ -131,7 +131,7 @@ docker run -p 5000:5000 mlops-deploy
 📍 São Paulo | Madrid | London
 🌐 [nowaanalytics.com](http://nowaanalytics.com) *(replace with actual site if available)*
 
----
+
 
 ## 📬 Contact
 
